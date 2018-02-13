@@ -1,6 +1,6 @@
 var querystring = require('querystring');
 let accessToken;
-let client_id = d27d5e5b90db47bdbe5965f48e667ebb'; //client_id removed from GitHub version
+let client_id = d27d5e5b90db47bdbe5965f48e667ebb';
 let redirect_uri = 'http://GuitarSongList.surge.sh/' 
 //'http://localhost:3000/';
 let stateKey = 'spotify_auth_state';
